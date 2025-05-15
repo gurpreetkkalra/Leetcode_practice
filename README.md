@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0027-remove-element) |
 | [2551-apply-operations-to-an-array](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/2551-apply-operations-to-an-array) |
 ## Two Pointers
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2551-apply-operations-to-an-array](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/2551-apply-operations-to-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
