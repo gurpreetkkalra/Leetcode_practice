@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0898-transpose-matrix](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0898-transpose-matrix) |
+| [1848-sum-of-unique-elements](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/1848-sum-of-unique-elements) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2551-apply-operations-to-an-array](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/2551-apply-operations-to-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/2714-left-and-right-sum-differences) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0217-contains-duplicate) |
+| [1848-sum-of-unique-elements](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/1848-sum-of-unique-elements) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Prefix Sum
 |  |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0217-contains-duplicate) |
+## Counting
+|  |
+| ------- |
+| [1848-sum-of-unique-elements](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/1848-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
