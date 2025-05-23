@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0898-transpose-matrix](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0898-transpose-matrix) |
+| [1319-unique-number-of-occurrences](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/1319-unique-number-of-occurrences) |
 | [1848-sum-of-unique-elements](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/1848-sum-of-unique-elements) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2551-apply-operations-to-an-array](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/2551-apply-operations-to-an-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1319-unique-number-of-occurrences](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/1319-unique-number-of-occurrences) |
 | [1848-sum-of-unique-elements](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/3206-find-common-elements-between-two-arrays) |
