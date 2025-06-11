@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0027-remove-element) |
+| [0160-intersection-of-two-linked-lists](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [2551-apply-operations-to-an-array](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/2551-apply-operations-to-an-array) |
 ## Simulation
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0001-two-sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/1319-unique-number-of-occurrences) |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
