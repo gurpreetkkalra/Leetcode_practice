@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0027-remove-element) |
+| [0151-reverse-words-in-a-string](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0908-middle-of-the-linked-list) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0151-reverse-words-in-a-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3110-score-of-a-string](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/3110-score-of-a-string) |
 ## Linked List
