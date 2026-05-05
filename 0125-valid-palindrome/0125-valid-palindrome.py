@@ -1,12 +1,12 @@
 class Solution(object):
     def isPalindrome(self, s):
-        result = ""
-        for char in s:
-            if char.isalnum():
-                result+=char
-        r = result.lower()
-        if (r[::-1] == r):
+        s=s.lower()
+        st=""
+        if(len(s)==0):
             return True
         else:
-            return False
-        
+            for i in s:
+                if(i.isalnum()):
+                    st=st+i
+        return st[::-1]==st
+                
