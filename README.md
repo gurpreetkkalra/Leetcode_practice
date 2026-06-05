@@ -91,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0234-palindrome-linked-list) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
