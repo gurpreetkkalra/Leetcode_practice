@@ -1,10 +1,12 @@
 class Solution(object):
     def reverse(self, x):
-        s=str(x);
-        if(s[0]!=0 and s[0]!='-'):
-            answer=int(s[::-1])
-        else:
-            answer= int('-'+s[:0:-1])
-        if answer<-2**31 or answer> 2**31 - 1:
+        if x < 0:
+            sign = -1
+        else: 
+            sign = 1
+        
+        rev = sign * int(str(abs(x))[::-1])
+        if rev < -2 ** 31 or rev > 2**31 -1:
             return 0
-        return answer
+        return rev
+        
