@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0125-valid-palindrome) |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0007-reverse-integer) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/gurpreetkkalra/Leetcode_practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
