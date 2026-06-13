@@ -1,14 +1,14 @@
 class Solution(object):
     def isValid(self, s):
         stack = []
-        matching = {')':'(','}':'{',']':'['}
+        parantheses = {')':'(', '}':'{' ,']':'['}
 
-        for char in s:
-            if char in "({[":
-                stack.append(char)
-            elif char in ")}]":
-                if not stack or stack[-1] != matching[char]:
+        for i in s:
+            if i in '({[':
+                stack.append(i)
+            elif i in ')}]':
+                if not stack or stack[-1] != parantheses[i]:
                     return False
                 stack.pop()
-        
-        return len(stack) == 0
+
+        return len(stack)==0
