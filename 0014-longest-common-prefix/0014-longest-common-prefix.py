@@ -1,13 +1,11 @@
 class Solution(object):
-    def longestCommonPrefix(self,strs):
-        smallest_word = min(strs, key=len)
-        for i in range (len(smallest_word)):
-            for j in strs:
-                if (j[i]!=smallest_word[i]):
-                    return smallest_word[:i]
-        return smallest_word
-
-        
-            
+    def longestCommonPrefix(self, strs):
+        res =""
+        for i in range(len(strs[0])):
+            for s in strs:
+                if i == len(s) or s[i] != strs[0][i]:
+                    return res
+            res += strs[0][i]
+        return res
             
         
