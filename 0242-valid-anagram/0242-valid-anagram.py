@@ -2,13 +2,14 @@ class Solution(object):
     def isAnagram(self, s, t):
         if len(s)!= len(t):
             return False
-        freq = [0] *26
+        freq = {}
         for ch in s:
-            freq[ord(ch) - ord('a')] +=1
+            freq[ch]= freq.get(ch, 0)+1
         for ch in t:
-            freq[ord(ch) - ord('a')] -=1
-        for count in freq:
-            if count!=0:
+            if ch not in freq:
+                return False
+            freq[ch] -=1
+            if freq[ch] < 0:
                 return False
         return True
 
